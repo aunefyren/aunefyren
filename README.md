@@ -2,7 +2,7 @@
 
 ![Aune's Github stats](https://github-readme-stats.vercel.app/api?username=aunefyren&show_icons=true&theme=dracula)
 
-Soon-to-be cloud-services masters graduate. Loves network infrastructure, open source, Docker, APIs, web-programming, statistics & penetration testing.
+Cloud-services masters graduate. Loves network infrastructure, open source, Docker, APIs, web-programming, statistics & penetration testing.
 
 **Feel free to get in touch! ✉️**
 
